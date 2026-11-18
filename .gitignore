@@ -1,0 +1,20 @@
+# Pliki robocze i katalogi generowane przez AMD Vivado
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+*.xpr
+*.jou
+*.log
+*.str
+*.zip
+*.wdb
+*.pb
+*.dir/
+.Xil/
+vivado*.backup.jou
+vivado*.backup.log
+webtalk*
